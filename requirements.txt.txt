@@ -1,0 +1,13 @@
+jupyter
+nfl_data_py
+pandas
+numpy==2.1.0
+scikit-learn
+xgboost
+tensorflow
+matplotlib
+seaborn
+plotly
+sqlalchemy
+ipykernel
+shap
